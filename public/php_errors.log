@@ -1,0 +1,2 @@
+[09-Jul-2026 19:37:05 UTC] PHP Warning:  Undefined array key "REQUEST_URI" in C:\Users\Sarela\Documents\SOTANO_POS\vendor\laravel\framework\src\Illuminate\Foundation\resources\server.php on line 6
+[09-Jul-2026 19:37:05 UTC] PHP Deprecated:  parse_url(): Passing null to parameter #1 ($url) of type string is deprecated in C:\Users\Sarela\Documents\SOTANO_POS\vendor\laravel\framework\src\Illuminate\Foundation\resources\server.php on line 6
